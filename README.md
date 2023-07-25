@@ -1,4 +1,6 @@
 # BHARATINTERN
  This repository contains 3 different projects of machine learning , using different algorithms of machine learning to serve the purpose of predictive modeling.
+ <br>
+ House Price Prediction:-
  
-# House Price Prediction:-
+
